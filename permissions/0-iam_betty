@@ -1,2 +1,2 @@
 #!/bin/bash
-usermod -c "betty" nombredeusuario
+sudo usermod -c "betty" nombredeusuario
