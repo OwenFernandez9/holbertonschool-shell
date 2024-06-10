@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "ingrese los archivos que va a subir a github xd:"
+echo "ingrese los archivos que va a subir a github :"
 read -e var1
 git add $var1
 
